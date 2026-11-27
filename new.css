@@ -1,0 +1,42 @@
+.centre {
+    text-align: center;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: #170e1f;
+}
+
+h1 {
+    color: white;
+    font-size: 500%;
+}
+
+
+#firstDiv {
+    display: flex;
+}
+
+.borderTypeOne {
+    background-color: white;
+    margin: 1.4%;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #c596ff;
+}
+#leftFirst, #rightFirst {
+    width: 50%;
+}
+
+#portfolioDiv {
+    display: flex;
+}
+
+#motionGraphics, #films, #photography {
+    width: 33.33%;
+    margin: 2%;
+    background-color: white;
+}
